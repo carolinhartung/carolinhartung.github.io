@@ -1,0 +1,26 @@
+---
+title: "Curriculum vitae"
+description: "Academic background and curriculum vitae of Carolin Hartung, mathematics PhD student at the University of Bonn."
+---
+
+## Current position
+
+**PhD student in mathematics**  
+University of Bonn. Supervisor: [Jan Schröer](https://www.math.uni-bonn.de/~schroer/).
+
+## Education
+
+- **MSc in mathematics**, University of Bonn.
+- **Part III in Mathematics**, [University of Cambridge](https://www.maths.cam.ac.uk/postgrad/part-iii/current); member of **Magdalene College**.
+
+## Research interests
+
+Representation theory of finite-dimensional algebras, quivers, and their homological and combinatorial properties.
+
+## Full CV
+
+[**View my CV (PDF)**](https://www.dropbox.com/scl/fi/t295vfbata2c7wephstel/CV_Carolin_Hartung_Website.pdf?rlkey=dpo8kq8k5c3ynfo50l5w7sraz&dl=0)
+
+The PDF above is linked from my existing website and remains hosted on Dropbox. If I later host it here directly, I can replace that link with a local `CV.pdf` file.
+
+<!-- Dates, awards and additional appointments were not added because they were not stated on the source homepage. -->

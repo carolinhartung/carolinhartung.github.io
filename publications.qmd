@@ -1,0 +1,15 @@
+---
+title: "Publications"
+format:
+  html:
+    body-classes: publications-page
+---
+
+## Preprints
+
+1. **Minimal presentations of finite-dimensional representations of pseudocompact algebras.**  
+   Christof Geiss, Carolin Hartung, Daniel Labardini-Fragoso, Jan Schröer.  
+   Preprint (2026), 26 pages.  
+   [arXiv:2610.18805](https://arxiv.org/abs/2610.18805) · [PDF](https://arxiv.org/pdf/2610.18805)
+
+<!-- Add new publications here. Keep this bibliography up to date manually. -->

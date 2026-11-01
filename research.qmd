@@ -1,0 +1,19 @@
+---
+title: "Research"
+description: "Research interests of Carolin Hartung: representation theory of finite-dimensional algebras, quivers, and homological and combinatorial properties."
+---
+
+My research interests lie in **the representation theory of finite-dimensional algebras**, **quivers**, and their **homological and combinatorial properties**.
+
+## Current preprint
+
+**[Minimal presentations of finite-dimensional representations of pseudocompact algebras](https://arxiv.org/abs/2610.18805)**  
+Christof Geiss, Carolin Hartung, Daniel Labardini-Fragoso and Jan Schröer. *Preprint* (2026), 26 pages.
+
+[Read the preprint on arXiv](https://arxiv.org/abs/2610.18805)
+
+## Research group
+
+I am a PhD student at the University of Bonn under the supervision of [Jan Schröer](https://www.math.uni-bonn.de/~schroer/).
+
+For presentations connected to my interests, see [Talks](talks.qmd).

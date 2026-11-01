@@ -1,0 +1,37 @@
+project:
+  type: website
+
+website:
+  title: "Carolin Hartung"
+  site-url: "https://carolin-hartung.de"
+  description: "Carolin Hartung is a PhD student in mathematics at the University of Bonn, working on representation theory of finite-dimensional algebras and quivers."
+  open-graph: true
+  search: false
+  navbar:
+    background: light
+    pinned: true
+    right:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: talks.qmd
+        text: Talks
+      - href: outreach.qmd
+        text: Outreach
+  page-footer:
+    border: true
+    left: "© 2026 Carolin Hartung"
+    right: "[Contact](index.qmd#contact)"
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    anchor-sections: false
+    link-external-newwindow: true
+    html-math-method: mathjax
+
+editor: source

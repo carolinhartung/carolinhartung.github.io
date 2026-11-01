@@ -1,0 +1,98 @@
+/* Minimal, editorial academic aesthetic, no external font requests */
+:root {
+  --ink: #192833;
+  --muted: #526674;
+  --accent: #28617b;
+  --accent-hover: #17465f;
+  --line: #dce4e7;
+  --paper: #ffffff;
+  --shade: #f5f8f9;
+}
+html { scroll-behavior: smooth; }
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+  line-height: 1.72;
+  font-size: 1.04rem;
+}
+#quarto-content { padding-top: 0.5rem; }
+main.content { max-width: 840px; margin: 0 auto; }
+.navbar { border-bottom: 1px solid var(--line); box-shadow: none; padding: 0.88rem 0; }
+.navbar-brand { font-family: Georgia, "Times New Roman", serif; font-size: 1.38rem; font-weight: 600; color: var(--ink) !important; }
+.navbar .nav-link { font-size: .93rem; color: var(--muted) !important; }
+.navbar .nav-link.active, .navbar .nav-link:hover { color: var(--accent) !important; }
+h1, h2, h3 { color: var(--ink); font-family: Georgia, "Times New Roman", serif; letter-spacing: -.02em; line-height: 1.25; }
+h1 { font-size: clamp(2.1rem, 5vw, 3.1rem); }
+h2 { font-size: 1.54rem; margin-top: 2.65rem; border-bottom: 1px solid var(--line); padding-bottom: .45rem; }
+h3 { font-size: 1.2rem; }
+a { color: var(--accent); }
+a:hover { color: var(--accent-hover); }
+a:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+.hero { padding: clamp(2.1rem, 7vw, 4.6rem) 0 2.6rem; border-bottom: 1px solid var(--line); margin-bottom: 2.5rem; }
+.hero .eyebrow { color: var(--accent); font-size: .76rem; font-weight: 700; letter-spacing: .13em; text-transform: uppercase; }
+.hero .hero-title { font-size: clamp(3.1rem, 8vw, 5.25rem); margin: .55rem 0 .22rem; }
+.hero .hero-subtitle { font-size: 1.17rem; color: var(--muted); margin: .25rem 0 1.55rem; }
+.hero p { max-width: 710px; }
+.pill-link { display: inline-block; padding: .48rem .91rem; margin: .45rem .5rem .2rem 0; border: 1px solid var(--accent); border-radius: 4px; text-decoration: none; font-size: .93rem; }
+.pill-link:hover { background: var(--shade); }
+.text-link { font-size: .95rem; }
+main.content li { margin-bottom: .48rem; }
+.quarto-title h1.title {
+  margin: 0.7rem 0 1.4rem;
+}
+footer.footer { border-top: 1px solid var(--line); font-size: .86rem; color: var(--muted); }
+@media (max-width: 640px) {
+  body { font-size: 1rem; }
+  .hero { padding-top: 1.2rem; }
+  .hero .hero-title { font-size: 3rem; }
+  .navbar-brand { font-size: 1.2rem; }
+}
+/* Large Notion-style cover image */
+
+
+/* Notion-style cover image */
+.column-screen img.cover-image {
+  display: block;
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+  object-position: center;
+  border: none;
+}
+
+/* No extra space around the cover */
+.column-screen p {
+  margin: 0;
+}
+
+/* Small portrait beside introduction */
+.profile-photo {
+  float: right;
+  width: 150px;
+  height: auto;
+  margin: 0 0 20px 28px;
+  border-radius: 6px;
+}
+
+/* Mobile display */
+@media (max-width: 600px) {
+  .profile-photo {
+    float: none;
+    display: block;
+    margin: 0 auto 24px auto;
+  }
+}
+
+/* Publications page heading */
+body.publications-page .quarto-title h1.title {
+  font-size: 2.7rem;
+}
+
+/* Spacing for the Talks heading */
+#talks-title > h1,
+h1#talks-title {
+  margin-top: 0.6rem;
+  margin-bottom: 1.3rem;
+}
+
