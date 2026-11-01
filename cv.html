@@ -227,7 +227,7 @@ University of Bonn. Supervisor: <a href="https://www.math.uni-bonn.de/~schroer/"
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/carolinhartung\.github\.io");
+        var filterRegex = new RegExp("https:\/\/carolin-hartung\.de");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
