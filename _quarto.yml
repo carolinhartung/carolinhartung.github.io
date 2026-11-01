@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Carolin Hartung"
-  site-url: "https://carolin-hartung.de"
+  site-url: "https://carolinhartung.github.io"
   description: "Carolin Hartung is a PhD student in mathematics at the University of Bonn, working on representation theory of finite-dimensional algebras and quivers."
   open-graph: true
   search: false
