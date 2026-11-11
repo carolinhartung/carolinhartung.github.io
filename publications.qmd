@@ -7,7 +7,7 @@ format:
 
 ## Preprints
 
-3. **E-symmetric algebras II.**  
+1. **E-symmetric algebras II.**  
    Grzegorz Bobiński, Carolin Hartung, Jan Schröer.  
    Preprint (2026), 27 pages.  
    [arXiv:2611.13889](https://arxiv.org/abs/2611.13889) · [PDF](https://arxiv.org/pdf/2611.13889)
@@ -17,7 +17,7 @@ format:
    Preprint (2026), 34 pages.  
    [arXiv:2611.14057](https://arxiv.org/abs/2611.14057) · [PDF](https://arxiv.org/pdf/2611.14057)   
 
-1. **Minimal presentations of finite-dimensional representations of pseudocompact algebras.**  
+3. **Minimal presentations of finite-dimensional representations of pseudocompact algebras.**  
    Christof Geiss, Carolin Hartung, Daniel Labardini-Fragoso, Jan Schröer.  
    Preprint (2026), 26 pages.  
    [arXiv:2610.18805](https://arxiv.org/abs/2610.18805) · [PDF](https://arxiv.org/pdf/2610.18805)
