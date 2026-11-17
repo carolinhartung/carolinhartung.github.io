@@ -1,6 +1,9 @@
 project:
   type: website
 
+resources:
+  - files/Carolin_Hartung_CV.pdf
+
 website:
   title: "Carolin Hartung"
   site-url: "https://carolin-hartung.de"
